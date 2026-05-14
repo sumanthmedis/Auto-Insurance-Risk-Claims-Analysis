@@ -6,6 +6,7 @@ Project Overview
 This project focuses on analyzing auto insurance data to identify customer risk profiles, claim trends, and policy insights using Microsoft Fabric and Power BI. The solution was built using Lakehouse, Dataflow Gen2, Semantic Modeling, and interactive dashboards.
 
 Domain
+
 Insurance Analytics
 
 Tools & Technologies
